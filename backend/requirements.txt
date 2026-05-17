@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+openai-whisper
+torch
+sentence-transformers
+faiss-cpu
+langchain
+numpy
+pydantic
+python-multipart
+websockets
+redis
+celery
+openai
